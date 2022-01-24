@@ -15,3 +15,6 @@ body{
 .border{
     border: none;
 }
+.pad{
+    padding: 100px;
+}
